@@ -21,3 +21,5 @@ Reunião de códigos para os projetos.
 - Implementação de **AsyncStorage** para armazenar dados localmente sem necessidade de servidores.
 - Configuração de **modelos de navegação** para uma experiência fluida e interativa.
 - Possível **expansão futura** para conexão remota e implementação de um pequeno sistema de autenticação.
+
+### estrutura do app disponvel em: app
