@@ -22,4 +22,4 @@ Reunião de códigos para os projetos.
 - Configuração de **modelos de navegação** para uma experiência fluida e interativa.
 - Possível **expansão futura** para conexão remota e implementação de um pequeno sistema de autenticação.
 
-### estrutura do app disponvel em: app
+### estrutura do app disponvel em: https://github.com/eueduardadev/projeto-de-extens-o/blob/main/app 
