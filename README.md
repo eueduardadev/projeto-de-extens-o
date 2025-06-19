@@ -1,6 +1,6 @@
 # projeto-de-extensão: **Soluções Digitais para Microempreendedores e Pequenos Negócios Locais**
 
-Reunião de códigos para os projetos.
+Reunião de códigos e resumos para os projetos.
  
 
 ### **1. Público-alvo e impacto social**
@@ -24,3 +24,50 @@ Reunião de códigos para os projetos.
 - Possível **expansão futura** para conexão remota e implementação de um pequeno sistema de autenticação.
 
 ### estrutura do app disponvel em: https://github.com/eueduardadev/projeto-de-extens-o/blob/main/app 
+
+
+
+
+---
+
+# **Relatório Final de Atividades – Projeto de Extensão**
+
+## **Título do Projeto:**  
+Capacitação Comunitária em Análise Exploratória de Dados para Diagnóstico de Problemas Locais
+
+### **I. Resumo das Atividades Realizadas:**  
+Descrição sucinta das oficinas, encontros, levantamento de dados com a comunidade, ações desenvolvidas e participação dos estudantes.
+
+---
+
+### **II. Evidências Geradas no Projeto:**
+
+#### **1. Participação da Comunidade**
+- Cópias das *listas de presença* das oficinas;
+- Fotos das oficinas, encontros e rodas de conversa;
+- Declarações ou depoimentos de moradores participantes.
+
+#### **2. Materiais Produzidos**
+- Slides e apostilas utilizadas na capacitação;
+- Planilhas preenchidas com dados coletados junto à comunidade;
+- Gráficos, tabelas e infográficos produzidos nas oficinas;
+- Fotos ou imagens do *mural de dados comunitário*;
+
+#### **3. Impacto e Resultados**
+- Relatos da comunidade sobre melhorias práticas observadas;
+- Registros de uso do mural de dados para reivindicações locais;
+- Roda de conversa de follow-up e resumo das falas;
+- Cartas de apoio ou reconhecimento institucional (ONGs, secretarias, associações de bairro);
+
+#### **4. Produção Discente**
+- Diários de bordo ou de campo dos alunos extensionistas;
+- Autoavaliações e reflexões escritas sobre a experiência;
+- Artigos acadêmicos (se houver), apresentações, postagens ou resumos expandidos gerados a partir do projeto.
+
+---
+
+### **III. Considerações Finais:**
+Reflexão sobre o aprendizado dos estudantes, contribuição para a comunidade e sugestões para continuidade ou ampliação do projeto em edições futuras.
+
+---
+
