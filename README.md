@@ -1,6 +1,7 @@
-# projeto-de-extensão
-Reunião de códigos para os projetos.
+# projeto-de-extensão: **Soluções Digitais para Microempreendedores e Pequenos Negócios Locais**
 
+Reunião de códigos para os projetos.
+ 
 
 ### **1. Público-alvo e impacto social**
 - O aplicativo pode ser desenvolvido para **microempreendedores, pequenas empresas ou associações locais** que precisam de ferramentas digitais simples para **organização de dados, comunicação ou gestão de clientes**.
